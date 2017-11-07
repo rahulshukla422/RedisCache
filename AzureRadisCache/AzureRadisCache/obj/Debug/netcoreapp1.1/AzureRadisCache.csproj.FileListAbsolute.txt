@@ -1,0 +1,10 @@
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\bin\Debug\netcoreapp1.1\AzureRadisCache.deps.json
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\bin\Debug\netcoreapp1.1\AzureRadisCache.runtimeconfig.json
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\bin\Debug\netcoreapp1.1\AzureRadisCache.runtimeconfig.dev.json
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\bin\Debug\netcoreapp1.1\AzureRadisCache.dll
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\obj\Debug\netcoreapp1.1\AzureRadisCache.csprojResolveAssemblyReference.cache
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\obj\Debug\netcoreapp1.1\AzureRadisCache.csproj.CoreCompileInputs.cache
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\obj\Debug\netcoreapp1.1\AzureRadisCache.AssemblyInfo.cs
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\bin\Debug\netcoreapp1.1\AzureRadisCache.pdb
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\obj\Debug\netcoreapp1.1\AzureRadisCache.dll
+E:\Visual studio 2017\AzureRadisCache\AzureRadisCache\obj\Debug\netcoreapp1.1\AzureRadisCache.pdb
